@@ -28,3 +28,4 @@ Search
 
 Localization:
 Support Multiple language, here Example for only english
+
