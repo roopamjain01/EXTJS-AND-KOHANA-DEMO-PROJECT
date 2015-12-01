@@ -14,19 +14,31 @@ print view
 
 Filter
 
+
 Controller : Using Kohana
+
 Add,edit,delete Guest Functionality
+
 Print Functionality
+
 Expot to excel Functionality
+
 List View Functionality
+
 Filter and searching Functionality
 
 Model : Using ORM
+
 Add 
+
 Edit
+
 Delete
+
 Get
+
 Search
 
-Localization
+Localization:
+
 Support Multiple language, here Example for only english
