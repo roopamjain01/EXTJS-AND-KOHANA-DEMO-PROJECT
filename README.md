@@ -1,14 +1,14 @@
 # EXTJS-AND-KOHANA-DEMO-PROJECT
 
 
-This demo project contain example related to How to use kohana framework of php , Extjs framework of javascript and Orm Queries.
-This Project also example of MVC architecture and localization.
-For more details I have also attached a user document and screenshots of running application.
+This demo project contain example related to How to use KOHANA framework of PHP , EXTJS framework of JAVASCRIPT and ORM Queries.
+This project also shows MVC architecture and localization.
+For more details I have also attached a user guide and screenshots of running application.
 
-View : Using Extjst
+View : Using EXTJS
 
-Controller : Using Kohana and PHP
+Controller : Using KOHANA and PHP
 
 Model : Using ORM
 
-Localization: Support Multiple language, here Example for only english
+Localization: Support multiple language, here Example for only English
